@@ -1,2 +1,2 @@
-# sample-first-zomato-php
+# first-zomato-php
 First php zomato Project 
